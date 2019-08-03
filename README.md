@@ -18,8 +18,8 @@ pip install pycard-validate
 An example use:
 
 ```python
-import pycardvalidator
-result = pycardvalidator.validate('4111 1111 1111 1111') # returns True
+from pycardvalidator.validator import pycvalid
+result = pycvalid.validate('4111 1111 1111 1111') # returns True
 ```
 
 ## License
