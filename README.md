@@ -2,7 +2,7 @@ pycard-validator
 ==========================
 
 A simple python module to implement credit card number validation using Luhn Algorithm.
-[![Build Status](https://travis-ci.org/subhajeet2107/pycard-validate.svg?branch=master)](https://travis-ci.org/subhajeet2107/pycard-validate) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
+[![Build Status](https://travis-ci.org/subhajeet2107/pycard-validate.svg?branch=master)](https://travis-ci.org/subhajeet2107/pycard-validate) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django.svg) [![PyPI version](https://badge.fury.io/py/pycard-validate.svg)](https://badge.fury.io/py/pycard-validate) [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 
 ## Installation
